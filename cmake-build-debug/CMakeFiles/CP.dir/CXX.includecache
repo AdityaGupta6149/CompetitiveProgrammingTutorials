@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adityagupta/CLionProjects/CP/Array/Freq.h
+iostream
+-
+
+/Users/adityagupta/CLionProjects/CP/Welcome.h
+iostream
+-
+
+/Users/adityagupta/CLionProjects/CP/main.cpp
+iostream
+-
+Array/Freq.h
+/Users/adityagupta/CLionProjects/CP/Array/Freq.h
+Welcome.h
+/Users/adityagupta/CLionProjects/CP/Welcome.h
+
