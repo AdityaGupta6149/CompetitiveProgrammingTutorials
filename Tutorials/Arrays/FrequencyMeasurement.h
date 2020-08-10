@@ -15,7 +15,7 @@ void resultCheck(){
     if (ans == 9)
         cout<<"Passed lesson 1.";
     else
-        cout<<"Failed, try again.";
+        cout<<"Failed, please try again.";
 }
 
 #endif //CP_FREQUENCYMEASUREMENT_H
