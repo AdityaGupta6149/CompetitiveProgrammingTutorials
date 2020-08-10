@@ -143,60 +143,6 @@ CP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/build
 .PHONY : CP/fast
 
-Array/Freq.o: Array/Freq.cpp.o
-
-.PHONY : Array/Freq.o
-
-# target to build an object file
-Array/Freq.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/Array/Freq.cpp.o
-.PHONY : Array/Freq.cpp.o
-
-Array/Freq.i: Array/Freq.cpp.i
-
-.PHONY : Array/Freq.i
-
-# target to preprocess a source file
-Array/Freq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/Array/Freq.cpp.i
-.PHONY : Array/Freq.cpp.i
-
-Array/Freq.s: Array/Freq.cpp.s
-
-.PHONY : Array/Freq.s
-
-# target to generate assembly for a file
-Array/Freq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/Array/Freq.cpp.s
-.PHONY : Array/Freq.cpp.s
-
-dog.o: dog.cpp.o
-
-.PHONY : dog.o
-
-# target to build an object file
-dog.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/dog.cpp.o
-.PHONY : dog.cpp.o
-
-dog.i: dog.cpp.i
-
-.PHONY : dog.i
-
-# target to preprocess a source file
-dog.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/dog.cpp.i
-.PHONY : dog.cpp.i
-
-dog.s: dog.cpp.s
-
-.PHONY : dog.s
-
-# target to generate assembly for a file
-dog.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/dog.cpp.s
-.PHONY : dog.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -224,33 +170,6 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-tree.o: tree.cpp.o
-
-.PHONY : tree.o
-
-# target to build an object file
-tree.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/tree.cpp.o
-.PHONY : tree.cpp.o
-
-tree.i: tree.cpp.i
-
-.PHONY : tree.i
-
-# target to preprocess a source file
-tree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/tree.cpp.i
-.PHONY : tree.cpp.i
-
-tree.s: tree.cpp.s
-
-.PHONY : tree.s
-
-# target to generate assembly for a file
-tree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CP.dir/build.make CMakeFiles/CP.dir/tree.cpp.s
-.PHONY : tree.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -260,18 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CP"
-	@echo "... Array/Freq.o"
-	@echo "... Array/Freq.i"
-	@echo "... Array/Freq.s"
-	@echo "... dog.o"
-	@echo "... dog.i"
-	@echo "... dog.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... tree.o"
-	@echo "... tree.i"
-	@echo "... tree.s"
 .PHONY : help
 
 

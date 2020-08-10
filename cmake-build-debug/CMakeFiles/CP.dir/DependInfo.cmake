@@ -4,10 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/adityagupta/CLionProjects/CP/Array/Freq.cpp" "/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles/CP.dir/Array/Freq.cpp.o"
-  "/Users/adityagupta/CLionProjects/CP/dog.cpp" "/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles/CP.dir/dog.cpp.o"
   "/Users/adityagupta/CLionProjects/CP/main.cpp" "/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles/CP.dir/main.cpp.o"
-  "/Users/adityagupta/CLionProjects/CP/tree.cpp" "/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles/CP.dir/tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

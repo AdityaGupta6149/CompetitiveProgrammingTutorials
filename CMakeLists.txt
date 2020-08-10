@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CP main.cpp cmake-build-debug/cal.h Array/Freq.cpp Array/Freq.h Welcome.h)
+add_executable(CP main.cpp cmake-build-debug/cal.h  Welcome.h Tutorials/Arrays/FrequencyMeasurement.h Tutorials/Instructions.h)

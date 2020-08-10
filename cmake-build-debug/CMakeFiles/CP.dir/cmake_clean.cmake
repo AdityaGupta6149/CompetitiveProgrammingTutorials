@@ -1,8 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CP.dir/Array/Freq.cpp.o"
-  "CMakeFiles/CP.dir/dog.cpp.o"
   "CMakeFiles/CP.dir/main.cpp.o"
-  "CMakeFiles/CP.dir/tree.cpp.o"
   "CP"
   "CP.pdb"
 )

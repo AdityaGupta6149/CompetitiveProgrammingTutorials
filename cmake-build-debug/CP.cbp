@@ -82,31 +82,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/adityagupta/CLionProjects/CP/Array/Freq.cpp">
+		<Unit filename="/Users/adityagupta/CLionProjects/CP/Tutorials/Arrays/FrequencyMeasurement.h">
 			<Option target="CP"/>
 		</Unit>
-		<Unit filename="/Users/adityagupta/CLionProjects/CP/Array/Freq.h">
+		<Unit filename="/Users/adityagupta/CLionProjects/CP/Tutorials/Instructions.h">
 			<Option target="CP"/>
 		</Unit>
 		<Unit filename="/Users/adityagupta/CLionProjects/CP/Welcome.h">
 			<Option target="CP"/>
 		</Unit>
-		<Unit filename="/Users/adityagupta/CLionProjects/CP/cal2.h">
-			<Option target="CP"/>
-		</Unit>
 		<Unit filename="/Users/adityagupta/CLionProjects/CP/cmake-build-debug/cal.h">
 			<Option target="CP"/>
 		</Unit>
-		<Unit filename="/Users/adityagupta/CLionProjects/CP/dog.cpp">
-			<Option target="CP"/>
-		</Unit>
-		<Unit filename="/Users/adityagupta/CLionProjects/CP/dog.h">
-			<Option target="CP"/>
-		</Unit>
 		<Unit filename="/Users/adityagupta/CLionProjects/CP/main.cpp">
-			<Option target="CP"/>
-		</Unit>
-		<Unit filename="/Users/adityagupta/CLionProjects/CP/tree.cpp">
 			<Option target="CP"/>
 		</Unit>
 		<Unit filename="/Users/adityagupta/CLionProjects/CP/CMakeLists.txt">

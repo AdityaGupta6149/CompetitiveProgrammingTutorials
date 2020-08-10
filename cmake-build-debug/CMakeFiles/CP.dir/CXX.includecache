@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/adityagupta/CLionProjects/CP/Array/Freq.h
+/Users/adityagupta/CLionProjects/CP/Tutorials/Arrays/FrequencyMeasurement.h
 iostream
--
+/Users/adityagupta/CLionProjects/CP/Tutorials/Arrays/iostream
 
 /Users/adityagupta/CLionProjects/CP/Welcome.h
 iostream
@@ -17,8 +17,8 @@ iostream
 /Users/adityagupta/CLionProjects/CP/main.cpp
 iostream
 -
-Array/Freq.h
-/Users/adityagupta/CLionProjects/CP/Array/Freq.h
+Tutorials/Arrays/FrequencyMeasurement.h
+/Users/adityagupta/CLionProjects/CP/Tutorials/Arrays/FrequencyMeasurement.h
 Welcome.h
 /Users/adityagupta/CLionProjects/CP/Welcome.h
 

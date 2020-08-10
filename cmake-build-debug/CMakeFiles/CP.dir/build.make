@@ -90,62 +90,17 @@ CMakeFiles/CP.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityagupta/CLionProjects/CP/main.cpp -o CMakeFiles/CP.dir/main.cpp.s
 
-CMakeFiles/CP.dir/dog.cpp.o: CMakeFiles/CP.dir/flags.make
-CMakeFiles/CP.dir/dog.cpp.o: ../dog.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CP.dir/dog.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CP.dir/dog.cpp.o -c /Users/adityagupta/CLionProjects/CP/dog.cpp
-
-CMakeFiles/CP.dir/dog.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP.dir/dog.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityagupta/CLionProjects/CP/dog.cpp > CMakeFiles/CP.dir/dog.cpp.i
-
-CMakeFiles/CP.dir/dog.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP.dir/dog.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityagupta/CLionProjects/CP/dog.cpp -o CMakeFiles/CP.dir/dog.cpp.s
-
-CMakeFiles/CP.dir/Array/Freq.cpp.o: CMakeFiles/CP.dir/flags.make
-CMakeFiles/CP.dir/Array/Freq.cpp.o: ../Array/Freq.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CP.dir/Array/Freq.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CP.dir/Array/Freq.cpp.o -c /Users/adityagupta/CLionProjects/CP/Array/Freq.cpp
-
-CMakeFiles/CP.dir/Array/Freq.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP.dir/Array/Freq.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityagupta/CLionProjects/CP/Array/Freq.cpp > CMakeFiles/CP.dir/Array/Freq.cpp.i
-
-CMakeFiles/CP.dir/Array/Freq.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP.dir/Array/Freq.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityagupta/CLionProjects/CP/Array/Freq.cpp -o CMakeFiles/CP.dir/Array/Freq.cpp.s
-
-CMakeFiles/CP.dir/tree.cpp.o: CMakeFiles/CP.dir/flags.make
-CMakeFiles/CP.dir/tree.cpp.o: ../tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CP.dir/tree.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CP.dir/tree.cpp.o -c /Users/adityagupta/CLionProjects/CP/tree.cpp
-
-CMakeFiles/CP.dir/tree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP.dir/tree.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityagupta/CLionProjects/CP/tree.cpp > CMakeFiles/CP.dir/tree.cpp.i
-
-CMakeFiles/CP.dir/tree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP.dir/tree.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityagupta/CLionProjects/CP/tree.cpp -o CMakeFiles/CP.dir/tree.cpp.s
-
 # Object files for target CP
 CP_OBJECTS = \
-"CMakeFiles/CP.dir/main.cpp.o" \
-"CMakeFiles/CP.dir/dog.cpp.o" \
-"CMakeFiles/CP.dir/Array/Freq.cpp.o" \
-"CMakeFiles/CP.dir/tree.cpp.o"
+"CMakeFiles/CP.dir/main.cpp.o"
 
 # External object files for target CP
 CP_EXTERNAL_OBJECTS =
 
 CP: CMakeFiles/CP.dir/main.cpp.o
-CP: CMakeFiles/CP.dir/dog.cpp.o
-CP: CMakeFiles/CP.dir/Array/Freq.cpp.o
-CP: CMakeFiles/CP.dir/tree.cpp.o
 CP: CMakeFiles/CP.dir/build.make
 CP: CMakeFiles/CP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/adityagupta/CLionProjects/CP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
