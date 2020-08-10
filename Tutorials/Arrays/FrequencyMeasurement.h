@@ -18,4 +18,8 @@ void resultCheck(){
         cout<<"Failed, please try again.";
 }
 
+void actualCode(){
+
+}
+
 #endif //CP_FREQUENCYMEASUREMENT_H
